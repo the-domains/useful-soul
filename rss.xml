@@ -4,21 +4,21 @@
         <description><![CDATA[useful soul]]></description>
         <link>https://thegrid.ai/useful-soul/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 03:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 03:08:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/useful-soul/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I might have been too late...]]></title>
+            <description><![CDATA[<article><h1>I might have been too late...</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7f73d061b9a74335361db2db75966759/croprotate.jpg?cropheight=5303&cropwidth=7952&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F038b50eb-8138-4cbf-b517-cb6e2830b32d.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/useful-soul/5f50d34b-a8ca-4ce6-80a8-acbe767c9b93/index.html</link>
+            <guid isPermaLink="false">5f50d34b-a8ca-4ce6-80a8-acbe767c9b93</guid>
+            <pubDate>Fri, 08 Jul 2016 03:08:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Oh my god I am awake]]></title>
             <description><![CDATA[<article><h1>Oh my god I am awake</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c4da2a9-33f4-4fdd-9913-a4f7a4ee320c.jpg"></article>]]></description>
             <link>https://thegrid.ai/useful-soul/oh-my-god-i-am-awake/index.html</link>
             <guid isPermaLink="false">755a4e43-f1ee-4820-8ba2-dab33d4c7f38</guid>
             <pubDate>Fri, 08 Jul 2016 03:07:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/038b50eb-8138-4cbf-b517-cb6e2830b32d.jpg">]]></description>
-            <link>https://thegrid.ai/useful-soul/5f50d34b-a8ca-4ce6-80a8-acbe767c9b93/index.html</link>
-            <guid isPermaLink="false">5f50d34b-a8ca-4ce6-80a8-acbe767c9b93</guid>
-            <pubDate>Fri, 08 Jul 2016 03:05:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
