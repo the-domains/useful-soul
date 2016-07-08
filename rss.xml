@@ -4,21 +4,21 @@
         <description><![CDATA[useful soul]]></description>
         <link>https://thegrid.ai/useful-soul/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 02:04:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 02:54:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/useful-soul/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a436840-ab18-4e2a-a267-e9d18ee9e48f.jpg">]]></description>
+            <link>https://thegrid.ai/useful-soul/5f50d34b-a8ca-4ce6-80a8-acbe767c9b93/index.html</link>
+            <guid isPermaLink="false">5f50d34b-a8ca-4ce6-80a8-acbe767c9b93</guid>
+            <pubDate>Fri, 08 Jul 2016 02:54:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c4da2a9-33f4-4fdd-9913-a4f7a4ee320c.jpg" alt="Oh my god I am awake">]]></description>
             <link>https://thegrid.ai/useful-soul/oh-my-god-i-am-awake/index.html</link>
             <guid isPermaLink="false">755a4e43-f1ee-4820-8ba2-dab33d4c7f38</guid>
             <pubDate>Fri, 08 Jul 2016 02:04:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[eero: No More Internet Dead Zones]]></title>
-            <description><![CDATA[<article><h1>eero: No More Internet Dead Zones</h1><p>Nearly all homes have a WiFi dead zone: you never get messages in the kitchen, you can't watch Netflix in the bedroom, you can't FaceTime in the backyard. This is simply because most of us have one WiFi router for our entire home, and that just doesn't work for how we use Internet today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e75956575966b1c70c11ff614cb972cd2133a6a9.jpg"></article>]]></description>
-            <link>http://www.coolhunting.com/tech/eero-wifi-that-works</link>
-            <guid isPermaLink="false">0631e959-7c33-48e3-b9ae-85c57de64bff</guid>
-            <pubDate>Thu, 30 Jun 2016 02:35:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
