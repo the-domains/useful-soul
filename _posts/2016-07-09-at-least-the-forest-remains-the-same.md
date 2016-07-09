@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-09T20:38:29.786Z'
+datePublished: '2016-07-09T21:42:51.142Z'
 author: []
-dateModified: '2016-07-09T20:38:25.974Z'
+dateModified: '2016-07-09T21:42:50.683Z'
 title: ''
 description: At least the forest remains the same.
-starred: false
 sourcePath: _posts/2016-07-09-at-least-the-forest-remains-the-same.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
