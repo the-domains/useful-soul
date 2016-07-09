@@ -1,14 +1,14 @@
-layout_spectrum: 0.13346520252525806
-typography_spectrum: 0.4364507272839546
+layout_spectrum: 0.28865619422867894
+typography_spectrum: 0.5696294223889709
 color:
-  brandStrength: 0.1787124346010387
-  lightness: 0.27827925817109644
-  saturation: 0.3390596238896251
-  rhythmicContrast: 0.15333760436624289
+  brandStrength: 0.6023573528509587
+  lightness: 0.7461127687711269
+  saturation: 0.5111501708161086
+  rhythmicContrast: 0.039921171963214874
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
 name: useful soul
