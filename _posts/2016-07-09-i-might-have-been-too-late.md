@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-09T20:34:27.848Z'
+datePublished: '2016-07-10T20:42:01.492Z'
 author: []
-dateModified: '2016-07-09T20:34:19.855Z'
+dateModified: '2016-07-10T20:42:00.959Z'
 title: ''
 description: I might have been too late...
-starred: false
 sourcePath: _posts/2016-07-09-i-might-have-been-too-late.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
